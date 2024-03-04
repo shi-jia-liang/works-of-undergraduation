@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\电路\2022飞镖系统\镖体电源\自锁降压模块\自锁降压模块.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

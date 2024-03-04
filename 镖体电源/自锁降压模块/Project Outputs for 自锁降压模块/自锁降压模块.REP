@@ -1,0 +1,312 @@
+*************************************************************
+FileName = ×ÔËø½µÑ¹Ä£¿é.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : ×ÔËø½µÑ¹Ä£¿é_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : ×ÔËø½µÑ¹Ä£¿é_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D18
+    D19
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : ×ÔËø½µÑ¹Ä£¿é_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : ×ÔËø½µÑ¹Ä£¿é_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : ×ÔËø½µÑ¹Ä£¿é_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : ×ÔËø½µÑ¹Ä£¿é_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : ×ÔËø½µÑ¹Ä£¿é_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : ×ÔËø½µÑ¹Ä£¿é_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : ×ÔËø½µÑ¹Ä£¿é_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : ×ÔËø½µÑ¹Ä£¿é_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : ×ÔËø½µÑ¹Ä£¿é_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : ×ÔËø½µÑ¹Ä£¿é_Mechanical_13.gbr
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : ×ÔËø½µÑ¹Ä£¿é_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : ×ÔËø½µÑ¹Ä£¿é_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D28
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : ×ÔËø½µÑ¹Ä£¿é_Profile.gbr
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Non-plated through-hole drill file
+      File : ×ÔËø½µÑ¹Ä£¿é_NPTH_Drill.gbr
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Plated through-hole drill file
+      File : ×ÔËø½µÑ¹Ä£¿é_PTH_Drill.gbr
+
+
+Used DCodes :
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : ×ÔËø½µÑ¹Ä£¿é_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : ×ÔËø½µÑ¹Ä£¿é_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D54
+*************************************************************
+

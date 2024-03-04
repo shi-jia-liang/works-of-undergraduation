@@ -1,0 +1,31 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [自锁降压模块.PrjPcb]
+   Generated File[自锁降压模块_Copper_Signal_Top.gbr]
+   Generated File[自锁降压模块_Copper_Signal_Bot.gbr]
+   Generated File[自锁降压模块_Pads_Bot.gbr]
+   Generated File[自锁降压模块_Pads_Top.gbr]
+   Generated File[自锁降压模块_Legend_Bot.gbr]
+   Generated File[自锁降压模块_Soldermask_Bot.gbr]
+   Generated File[自锁降压模块_Paste_Bot.gbr]
+   Generated File[自锁降压模块_Legend_Top.gbr]
+   Generated File[自锁降压模块_Paste_Top.gbr]
+   Generated File[自锁降压模块_Soldermask_Top.gbr]
+   Generated File[自锁降压模块_Keep-out.gbr]
+   Generated File[自锁降压模块_Mechanical_13.gbr]
+   Generated File[自锁降压模块_Mechanical_1.gbr]
+   Generated File[自锁降压模块_Mechanical_15.gbr]
+   Generated File[自锁降压模块_Profile.gbr]
+   Generated File[自锁降压模块_NPTH_Drill.gbr]
+   Generated File[自锁降压模块_PTH_Drill.gbr]
+   Generated File[自锁降压模块_Drawing_1.gbr]
+   Generated File[自锁降压模块_Drillmap_1.gbr]
+   Generated File[自锁降压模块.RUL]
+   Generated File[自锁降压模块.EXTREP]
+   Generated File[自锁降压模块.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 21:17:22 On 2022/5/24
