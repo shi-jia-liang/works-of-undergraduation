@@ -1,0 +1,5 @@
+Board Information Report
+Filename     : D:\电路\项目\大风车（STM32F1）\大风车第三版.PcbDoc
+Date         : 2021/9/28
+Time         : 23:57:40
+Time Elapsed : 00:00:00
